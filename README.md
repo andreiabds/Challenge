@@ -5,12 +5,12 @@ You can find my code and my report with my findings.
 
 # Code
 There are 5 files of code.
-Helper Code
+### Helper Code
 * CreatingDF.py
 * DataCleaning.py
 * Metrics.py
 
-Running Code
+### Running Code
 * Visualization.py
 * data_analysis.ipynb
 
