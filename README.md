@@ -1,9 +1,9 @@
-#Description
+# Description
 This my submission for a Data Science takehome challenge.
 I did not submit the data set as per request of the company.
 You can find my code and my report with my findings.
 
-#Code
+# Code
 There are 5 files of code.
 Helper Code
 * CreatingDF.py
@@ -18,4 +18,4 @@ The file data_analysis.ipynb is a jupyter notebook.
 It is calling the functions present on DataCleaning.py and Metrics.py.
 
 Data Visualization.py calls all the helper code files.
-CreatingDF.py, DataCleaning.py, and Metrics.py. 
+CreatingDF.py, DataCleaning.py, and Metrics.py.
