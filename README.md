@@ -3,8 +3,12 @@ This my submission for a Data Science takehome challenge.
 I did not submit the data set as per request of the company.
 You can find my code and my report with my findings.
 
+# Report
+The file Radius_Report.pdf is the report for this challenge.
+You can find it on the front page.
+
 # Code
-There are 5 files of code.
+All the code is inside 'src'. There are 5 files of code.
 ### Helper Code
 * CreatingDF.py
 * DataCleaning.py
